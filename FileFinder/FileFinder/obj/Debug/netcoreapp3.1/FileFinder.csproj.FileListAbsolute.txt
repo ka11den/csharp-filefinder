@@ -1,0 +1,14 @@
+C:\Users\Ka1rex\source\repos\FileFinder\FileFinder\obj\Debug\netcoreapp3.1\FileFinder.csproj.AssemblyReference.cache
+C:\Users\Ka1rex\source\repos\FileFinder\FileFinder\obj\Debug\netcoreapp3.1\FileFinder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ka1rex\source\repos\FileFinder\FileFinder\obj\Debug\netcoreapp3.1\FileFinder.AssemblyInfoInputs.cache
+C:\Users\Ka1rex\source\repos\FileFinder\FileFinder\obj\Debug\netcoreapp3.1\FileFinder.AssemblyInfo.cs
+C:\Users\Ka1rex\source\repos\FileFinder\FileFinder\obj\Debug\netcoreapp3.1\FileFinder.csproj.CoreCompileInputs.cache
+C:\Users\Ka1rex\source\repos\FileFinder\FileFinder\bin\Debug\netcoreapp3.1\FileFinder.exe
+C:\Users\Ka1rex\source\repos\FileFinder\FileFinder\bin\Debug\netcoreapp3.1\FileFinder.deps.json
+C:\Users\Ka1rex\source\repos\FileFinder\FileFinder\bin\Debug\netcoreapp3.1\FileFinder.runtimeconfig.json
+C:\Users\Ka1rex\source\repos\FileFinder\FileFinder\bin\Debug\netcoreapp3.1\FileFinder.runtimeconfig.dev.json
+C:\Users\Ka1rex\source\repos\FileFinder\FileFinder\bin\Debug\netcoreapp3.1\FileFinder.dll
+C:\Users\Ka1rex\source\repos\FileFinder\FileFinder\bin\Debug\netcoreapp3.1\FileFinder.pdb
+C:\Users\Ka1rex\source\repos\FileFinder\FileFinder\obj\Debug\netcoreapp3.1\FileFinder.dll
+C:\Users\Ka1rex\source\repos\FileFinder\FileFinder\obj\Debug\netcoreapp3.1\FileFinder.pdb
+C:\Users\Ka1rex\source\repos\FileFinder\FileFinder\obj\Debug\netcoreapp3.1\FileFinder.genruntimeconfig.cache
